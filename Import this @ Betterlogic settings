@@ -1,7 +1,12 @@
-Better Logic export
-
 [
   {
+    "name": "clouds24Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.085Z"
+  },
+  {
     "name": "clouds23Hour",
     "value": 0,
     "type": "number",
@@ -52,60 +57,9 @@ Better Logic export
   },
   {
     "name": "clouds16Hour",
-    "value": 0,[
-  {
-    "name": "clouds23Hour",
     "value": 0,
     "type": "number",
     "remove": false,
-    "lastChanged": "2022-02-17T20:11:41.162Z"
-  },
-  {
-    "name": "clouds22Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:11:34.914Z"
-  },
-  {
-    "name": "clouds21Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:11:25.843Z"
-  },
-  {
-    "name": "clouds20Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:11:16.737Z"
-  },
-  {
-    "name": "clouds19Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:11:06.757Z"
-  },
-  {
-    "name": "clouds18Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:10:56.185Z"
-  },
-  {
-    "name": "clouds17Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:10:41.114Z"
-  },
-  {
-    "name": "clouds16Hour",
-    "value": 0,
-    "type": "number",    "remove": false,
     "lastChanged": "2022-02-17T20:10:32.761Z"
   },
   {
@@ -191,6 +145,34 @@ Better Logic export
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T20:08:32.821Z"
+  },
+  {
+    "name": "clouds03Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.646Z"
+  },
+  {
+    "name": "clouds02Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.489Z"
+  },
+  {
+    "name": "clouds01Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.415Z"
+  },
+      {
+    "name": "rain24Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.485Z"
   },
   {
     "name": "rain23Hour",
@@ -333,89 +315,6 @@ Better Logic export
     "lastChanged": "2022-02-17T20:03:15.825Z"
   },
   {
-    "name": "windrltr24Hour",
-    "value": "",
-    "type": "string",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:01:10.653Z"
-  },
-  {
-    "name": "windrltr03Hour",
-    "value": "",
-    "type": "string",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:00:54.070Z"
-  },
-  {
-    "name": "windrltr02Hour",
-    "value": "",
-    "type": "string",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:00:35.302Z"
-  },
-  {
-    "name": "windrltr01Hour",
-    "value": "",
-    "type": "string",
-    "remove": false,
-    "lastChanged": "2022-02-17T20:00:06.085Z"
-  },
-  {
-    "name": "UvDay02",
-    "value": 0.96,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:14.851Z"
-  },
-  {
-    "name": "UvTomorrow",
-    "value": 1.18,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:14.791Z"
-  },
-  {
-    "name": "UvToday",    "value": 1.14,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:14.592Z"
-  },
-  {
-    "name": "windb24Hour",
-    "value": 3,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:13.894Z"
-  },
-  {
-    "name": "windb03Hour",
-    "value": 2,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:13.693Z"
-  },
-  {
-    "name": "windb02Hour",
-    "value": 2,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:13.515Z"
-  },
-  {
-    "name": "windb01Hour",
-    "value": 3,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:13.266Z"
-  },
-  {
-    "name": "rain24Hour",
-    "value": 0,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:02.485Z"
-  },
-  {
     "name": "rain03Hour",
     "value": 0,
     "type": "number",
@@ -444,197 +343,1390 @@ Better Logic export
     "lastChanged": "2022-02-17T17:01:02.186Z"
   },
   {
+    "name": "windrltr24Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:01:10.653Z"
+  },
+  {
+    "name": "windrltr23Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:01:10.653Z"
+  },
+  {
+    "name": "windrltr22Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:01:10.653Z"
+  },
+  {
+    "name": "windrltr21Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:01:10.653Z"
+  },
+  {
+    "name": "windrltr20Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:01:10.653Z"
+  },
+  {
+    "name": "windrltr19Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr18Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr17Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr16Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr15Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr14Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr13Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr12Hour",
+    "value": "",
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr11Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr10Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr09Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr08Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr07Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr06Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr05Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr04Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr03Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr02Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:35.302Z"
+  },
+  {
+    "name": "windrltr01Hour",
+    "value": 0,
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:06.085Z"
+  },
+
+  {
+    "name": "UvDay05",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.851Z"
+  },
+
+  {
+    "name": "UvDay04",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.851Z"
+  },
+
+  {
+    "name": "UvDay03",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.851Z"
+  },
+  {
+    "name": "UvDay02",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.851Z"
+  },
+  {
+    "name": "UvTomorrow",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.791Z"
+  },
+  {
+    "name": "UvToday",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.592Z"
+  },
+  {
+    "name": "windb24Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.894Z"
+  },
+  {
+    "name": "windb23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb03Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb02Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.515Z"
+  },
+  {
+    "name": "windb01Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.266Z"
+  },
+  {
     "name": "wind_speed24Hour",
-    "value": 5.55,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:02.139Z"
   },
   {
+    "name": "wind_speed23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
     "name": "wind_speed03Hour",
-    "value": 4.81,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.922Z"
   },
   {
     "name": "wind_speed02Hour",
-    "value": 4.75,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.788Z"
   },
   {
     "name": "wind_speed01Hour",
-    "value": 4.68,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.724Z"
   },
   {
     "name": "visibility24Hour",
-    "value": 10000,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.555Z"
   },
   {
+    "name": "visibility23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
     "name": "visibility03Hour",
-    "value": 10000,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.308Z"
   },
   {
     "name": "visibility02Hour",
-    "value": 10000,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.261Z"
   },
   {
     "name": "visibility01Hour",
-    "value": 10000,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.175Z"
   },
   {
-    "name": "clouds24Hour",
-    "value": 99,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:01:01.085Z"
-  },
-  {
-    "name": "clouds03Hour",
-    "value": 100,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:00:58.646Z"
-  },
-  {
-    "name": "clouds02Hour",
-    "value": 100,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:00:58.489Z"
-  },
-  {
-    "name": "clouds01Hour",
-    "value": 99,
-    "type": "number",
-    "remove": false,
-    "lastChanged": "2022-02-17T17:00:58.415Z"
-  },
-  {
     "name": "pressure24Hour",
-    "value": 1010,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:58.345Z"
   },
   {
-    "name": "pressure03Hour",
+    "name": "pressure23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure17Hour",
     "value": 1009,
     "type": "number",
-    "remove": false,    
-"lastChanged": "2022-02-17T17:00:58.174Z"
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure11Hour",
+    "value": 0,,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure03Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.174Z"
   },
   {
     "name": "pressure02Hour",
-    "value": 1009,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:58.101Z"
   },
   {
     "name": "pressure01Hour",
-    "value": 1010,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:58.014Z"
   },
   {
     "name": "humidity24Hour",
-    "value": 85,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.974Z"
   },
   {
+    "name": "humidity23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity22Hour",
+    "value": 0,,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
     "name": "humidity03Hour",
-    "value": 86,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.768Z"
   },
   {
     "name": "humidity02Hour",
-    "value": 86,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.643Z"
   },
   {
     "name": "humidity01Hour",
-    "value": 86,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.566Z"
   },
   {
     "name": "feels_like24Hour",
-    "value": 1.36,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.509Z"
   },
   {
+    "name": "feels_like23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.509Z"
+  },
+  {
+    "name": "feels_like22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.509Z"
+  },
+  {
+    "name": "feels_like21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.509Z"
+  },
+  {
+    "name": "feels_like20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.509Z"
+  },
+  {
+    "name": "feels_like19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
     "name": "feels_like03Hour",
-    "value": 2.71,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.275Z"
   },
   {
     "name": "feels_like02Hour",
-    "value": 2.21,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.174Z"
   },
   {
     "name": "feels_like01Hour",
-    "value": 1.68,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.110Z"
   },
   {
     "name": "temp24Hour",
-    "value": 5.22,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.026Z"
   },
   {
+    "name": "temp23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
     "name": "temp03Hour",
-    "value": 6.03,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:55.965Z"
   },
   {
     "name": "temp02Hour",
-    "value": 5.6,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:54.721Z"
   },
   {
     "name": "temp01Hour",
-    "value": 5.15,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:54.184Z"
