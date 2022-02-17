@@ -1,0 +1,642 @@
+Better Logic export
+
+[
+  {
+    "name": "clouds23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:41.162Z"
+  },
+  {
+    "name": "clouds22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:34.914Z"
+  },
+  {
+    "name": "clouds21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:25.843Z"
+  },
+  {
+    "name": "clouds20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:16.737Z"
+  },
+  {
+    "name": "clouds19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:06.757Z"
+  },
+  {
+    "name": "clouds18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:56.185Z"
+  },
+  {
+    "name": "clouds17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:41.114Z"
+  },
+  {
+    "name": "clouds16Hour",
+    "value": 0,[
+  {
+    "name": "clouds23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:41.162Z"
+  },
+  {
+    "name": "clouds22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:34.914Z"
+  },
+  {
+    "name": "clouds21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:25.843Z"
+  },
+  {
+    "name": "clouds20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:16.737Z"
+  },
+  {
+    "name": "clouds19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:11:06.757Z"
+  },
+  {
+    "name": "clouds18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:56.185Z"
+  },
+  {
+    "name": "clouds17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:41.114Z"
+  },
+  {
+    "name": "clouds16Hour",
+    "value": 0,
+    "type": "number",    "remove": false,
+    "lastChanged": "2022-02-17T20:10:32.761Z"
+  },
+  {
+    "name": "clouds15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:23.597Z"
+  },
+  {
+    "name": "clouds14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:15.241Z"
+  },
+  {
+    "name": "clouds13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:10.549Z"
+  },
+  {
+    "name": "clouds12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:10:00.121Z"
+  },
+  {
+    "name": "clouds11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:09:52.213Z"
+  },
+  {
+    "name": "clouds10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:09:43.450Z"
+  },
+  {
+    "name": "clouds09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:09:32.456Z"
+  },
+  {
+    "name": "clouds08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:09:18.224Z"
+  },
+  {
+    "name": "clouds07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:09:08.045Z"
+  },
+  {
+    "name": "clouds06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:08:49.208Z"
+  },
+  {
+    "name": "clouds05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:08:41.888Z"
+  },
+  {
+    "name": "clouds04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:08:32.821Z"
+  },
+  {
+    "name": "rain23Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:06:39.369Z"
+  },
+  {
+    "name": "rain22Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:06:18.924Z"
+  },
+  {
+    "name": "rain21Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:06:15.371Z"
+  },
+  {
+    "name": "rain20Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:06:04.362Z"
+  },
+  {
+    "name": "rain19Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:05:46.697Z"
+  },
+  {
+    "name": "rain18Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:05:34.850Z"
+  },
+  {
+    "name": "rain17Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:05:28.093Z"
+  },
+  {
+    "name": "rain16Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:05:21.350Z"
+  },
+  {
+    "name": "rain15Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:05:10.023Z"
+  },
+  {
+    "name": "rain14Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:04:57.821Z"
+  },
+  {
+    "name": "rain13Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:04:44.931Z"
+  },
+  {
+    "name": "rain12Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:04:38.194Z"
+  },
+  {
+    "name": "rain11Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:04:26.663Z"
+  },
+  {
+    "name": "rain10Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:04:05.639Z"
+  },
+  {
+    "name": "rain09Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:03:54.138Z"
+  },
+  {
+    "name": "rain08Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:03:49.549Z"
+  },
+  {
+    "name": "rain07Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:03:39.340Z"
+  },
+  {
+    "name": "rain06Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:03:31.812Z"
+  },
+  {
+    "name": "rain05Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022--02-17T20:03:21.583Z"
+  },
+  {
+    "name": "rain04Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:03:15.825Z"
+  },
+  {
+    "name": "windrltr24Hour",
+    "value": "",
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:01:10.653Z"
+  },
+  {
+    "name": "windrltr03Hour",
+    "value": "",
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:54.070Z"
+  },
+  {
+    "name": "windrltr02Hour",
+    "value": "",
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:35.302Z"
+  },
+  {
+    "name": "windrltr01Hour",
+    "value": "",
+    "type": "string",
+    "remove": false,
+    "lastChanged": "2022-02-17T20:00:06.085Z"
+  },
+  {
+    "name": "UvDay02",
+    "value": 0.96,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.851Z"
+  },
+  {
+    "name": "UvTomorrow",
+    "value": 1.18,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.791Z"
+  },
+  {
+    "name": "UvToday",    "value": 1.14,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:14.592Z"
+  },
+  {
+    "name": "windb24Hour",
+    "value": 3,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.894Z"
+  },
+  {
+    "name": "windb03Hour",
+    "value": 2,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.693Z"
+  },
+  {
+    "name": "windb02Hour",
+    "value": 2,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.515Z"
+  },
+  {
+    "name": "windb01Hour",
+    "value": 3,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:13.266Z"
+  },
+  {
+    "name": "rain24Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.485Z"
+  },
+  {
+    "name": "rain03Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.358Z"
+  },
+  {
+    "name": "rain02Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.291Z"
+  },
+  {
+    "name": "rain01Hour",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.216Z"
+  },
+  {
+    "name": "RainUpcoming3Hours",
+    "value": 0,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.186Z"
+  },
+  {
+    "name": "wind_speed24Hour",
+    "value": 5.55,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:02.139Z"
+  },
+  {
+    "name": "wind_speed03Hour",
+    "value": 4.81,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.922Z"
+  },
+  {
+    "name": "wind_speed02Hour",
+    "value": 4.75,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.788Z"
+  },
+  {
+    "name": "wind_speed01Hour",
+    "value": 4.68,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.724Z"
+  },
+  {
+    "name": "visibility24Hour",
+    "value": 10000,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.555Z"
+  },
+  {
+    "name": "visibility03Hour",
+    "value": 10000,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.308Z"
+  },
+  {
+    "name": "visibility02Hour",
+    "value": 10000,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.261Z"
+  },
+  {
+    "name": "visibility01Hour",
+    "value": 10000,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.175Z"
+  },
+  {
+    "name": "clouds24Hour",
+    "value": 99,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:01:01.085Z"
+  },
+  {
+    "name": "clouds03Hour",
+    "value": 100,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.646Z"
+  },
+  {
+    "name": "clouds02Hour",
+    "value": 100,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.489Z"
+  },
+  {
+    "name": "clouds01Hour",
+    "value": 99,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.415Z"
+  },
+  {
+    "name": "pressure24Hour",
+    "value": 1010,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.345Z"
+  },
+  {
+    "name": "pressure03Hour",
+    "value": 1009,
+    "type": "number",
+    "remove": false,    
+"lastChanged": "2022-02-17T17:00:58.174Z"
+  },
+  {
+    "name": "pressure02Hour",
+    "value": 1009,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.101Z"
+  },
+  {
+    "name": "pressure01Hour",
+    "value": 1010,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:58.014Z"
+  },
+  {
+    "name": "humidity24Hour",
+    "value": 85,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.974Z"
+  },
+  {
+    "name": "humidity03Hour",
+    "value": 86,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.768Z"
+  },
+  {
+    "name": "humidity02Hour",
+    "value": 86,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.643Z"
+  },
+  {
+    "name": "humidity01Hour",
+    "value": 86,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.566Z"
+  },
+  {
+    "name": "feels_like24Hour",
+    "value": 1.36,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.509Z"
+  },
+  {
+    "name": "feels_like03Hour",
+    "value": 2.71,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.275Z"
+  },
+  {
+    "name": "feels_like02Hour",
+    "value": 2.21,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.174Z"
+  },
+  {
+    "name": "feels_like01Hour",
+    "value": 1.68,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.110Z"
+  },
+  {
+    "name": "temp24Hour",
+    "value": 5.22,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:57.026Z"
+  },
+  {
+    "name": "temp03Hour",
+    "value": 6.03,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:55.965Z"
+  },
+  {
+    "name": "temp02Hour",
+    "value": 5.6,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:54.721Z"
+  },
+  {
+    "name": "temp01Hour",
+    "value": 5.15,
+    "type": "number",
+    "remove": false,
+    "lastChanged": "2022-02-17T17:00:54.184Z"
+  }
+]
