@@ -1,4 +1,4 @@
-  {
+ {
     "name": "clouds24Hour",
     "value": 0,
     "type": "number",
@@ -166,15 +166,7 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:00:58.415Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  {
+ {
     "name": "rain24Hour",
     "value": 0,
     "type": "number",
@@ -349,23 +341,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:02.186Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "windrltr24Hour",
     "value": 0,
@@ -534,17 +509,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T20:00:06.085Z"
   },
-
-
-
-
-
-
-
-
-
-
-
   {
     "name": "UvDay05",
     "value": 0,
@@ -552,7 +516,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:14.851Z"
   },
-
   {
     "name": "UvDay04",
     "value": 0,
@@ -560,7 +523,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:14.851Z"
   },
-
   {
     "name": "UvDay03",
     "value": 0,
@@ -589,23 +551,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:14.592Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "windb24Hour",
     "value": 0,
@@ -774,21 +719,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:13.266Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "wind_speed24Hour",
     "value": 0,
@@ -957,24 +887,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.724Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "visibility24Hour",
     "value": 0,
@@ -1143,25 +1055,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:01:01.175Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "pressure24Hour",
     "value": 0,
@@ -1255,7 +1148,7 @@
   },
   {
     "name": "pressure11Hour",
-    "value": 0,,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:58.174Z"
@@ -1330,26 +1223,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:00:58.014Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "humidity24Hour",
     "value": 0,
@@ -1366,7 +1239,7 @@
   },
   {
     "name": "humidity22Hour",
-    "value": 0,,
+    "value": 0,
     "type": "number",
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.768Z"
@@ -1518,25 +1391,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.566Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "feels_like24Hour",
     "value": 0,
@@ -1705,21 +1559,6 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:00:57.110Z"
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   {
     "name": "temp24Hour",
     "value": 0,
@@ -1888,3 +1727,4 @@
     "remove": false,
     "lastChanged": "2022-02-17T17:00:54.184Z"
   }
+]
